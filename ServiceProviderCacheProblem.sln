@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ServiceProviderCacheTests", "ServiceProviderCacheTests\ServiceProviderCacheTests.csproj", "{35F20A8D-CEC4-4A7A-A025-8B28081177A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35F20A8D-CEC4-4A7A-A025-8B28081177A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35F20A8D-CEC4-4A7A-A025-8B28081177A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35F20A8D-CEC4-4A7A-A025-8B28081177A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35F20A8D-CEC4-4A7A-A025-8B28081177A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D4B7913-53E0-4FCF-83A0-F2DB3FBC89E1}
+	EndGlobalSection
+EndGlobal
